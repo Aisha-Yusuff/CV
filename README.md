@@ -3,11 +3,9 @@
 I'm currently training with Makers Academy in order to become a Software Developer. I have a background in Life Sciences and a BSc Biochemistry degree. I'm excited by how technology plays such a huge role in our lives and how it can improve your way of life. I hope to create products that positively impact people one day.
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| Name                         | Description                                           | Tech/tools  |
+| ---------------------------- | ----------------------------------------------------- | ----------- |
+| **Student Directory**        | A command line app to manage a list of student names. | Ruby        |
 
 ## Skills
 
