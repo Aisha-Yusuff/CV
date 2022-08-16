@@ -10,7 +10,9 @@ A motivated Junior Full Stack Developer with a background in Marketing and Bioch
 
 | Name                         | Description                                           | Tech/tools  |
 | ---------------------------- | ----------------------------------------------------- | ----------- |
-| **Beach Finder**        | A web application made with the MERN stack to help users locate beaches in England | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library   |
+| **Beach Finder**        | A web app to help users locate beaches in England | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap, React and CSS   |
+| **TasteBook**        | A web app for users with a strong interest in food to connect, post recipes and share info about food. | JavaScript, 
+NodeJS, MongoDB, Jest, Cypress, HandleBars, HTML, Bootstrap and CSS  |
 
 <!-- ## Skills
 
