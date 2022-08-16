@@ -10,9 +10,12 @@ A motivated Junior Full Stack Developer with a background in Marketing and Bioch
 
 | Name                         | Description                                           | Tech/tools  |
 | ---------------------------- | ----------------------------------------------------- | ----------- |
-| **Beach Finder**        | A web app to help users locate beaches in England | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap, React and CSS   |
-| **TasteBook**        | A web app for users with a strong interest in food to connect, post recipes and share info about food. | JavaScript, 
-NodeJS, MongoDB, Jest, Cypress, HandleBars, HTML, Bootstrap and CSS  |
+| **Beach Finder**        | A web app to help users locate beaches in England | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap and CSS   |
+| **TasteBook**        | A web app for users with a strong interest in food to connect, post recipes and share info about food. | JavaScript, NodeJS, MongoDB, Jest, Cypress, HandleBars, HTML, Bootstrap and CSS  |
+| **Goal Setter**        | A web app for users to set, keep track of and update their goals | JavaScript, React, NodeJS, and MongoDB  |
+
+| **Chitter**        | A web app based on Twitter that allows users to post messages and view other users messages | Ruby, Rspec, HTML, and PostgreSQL |
+
 
 <!-- ## Skills
 
