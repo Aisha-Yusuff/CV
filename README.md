@@ -10,7 +10,7 @@ A motivated Junior Full Stack Developer with a background in Marketing and Bioch
 
 | Name                         | Description                                           | Tech/tools  |
 | ---------------------------- | ----------------------------------------------------- | ----------- |
-| **Student Directory**        | A command line app to manage a list of student names. | Ruby        |
+| **Beach Finder**        | A web application made with the MERN stack to help users locate beaches in England | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library   |
 
 <!-- ## Skills
 
