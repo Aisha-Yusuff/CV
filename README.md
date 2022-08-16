@@ -1,6 +1,7 @@
-## Hello, I'm Aisha!
+## Hello, I'm Aisha Yusuff!
 
-I'm currently training with Makers Academy in order to become a Software Developer. I have a background in Life Sciences and a BSc Biochemistry degree. I'm excited by how technology plays such a huge role in our lives and how it can improve your way of life. I hope to create products that positively impact people one day.
+A motivated Junior Full Stack Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. Seeking an opportunity to collaborate with an agile team, apply my strengths and skills, deliver high-quality code, and gain invaluable insights.
+
 ## Projects
 
 | Name                         | Description                                           | Tech/tools  |
