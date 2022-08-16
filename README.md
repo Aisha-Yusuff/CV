@@ -1,6 +1,10 @@
 ## Hello, I'm Aisha Yusuff!
 
-A motivated Junior Full Stack Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. Seeking an opportunity to collaborate with an agile team, apply my strengths and skills, deliver high-quality code, and gain invaluable insights.
+A motivated Junior Full Stack Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. Seeking an opportunity to collaborate with an agile team, apply my skills, deliver high-quality code, and gain invaluable insights.
+
+<!-- As a Biochemistry graduate, I have experience in ... -->
+
+<!-- I'm currently working on ... -->
 
 ## Projects
 
@@ -8,7 +12,7 @@ A motivated Junior Full Stack Developer with a background in Marketing and Bioch
 | ---------------------------- | ----------------------------------------------------- | ----------- |
 | **Student Directory**        | A command line app to manage a list of student names. | Ruby        |
 
-## Skills
+<!-- ## Skills
 
 #### Teamwork
 
@@ -31,3 +35,4 @@ A motivated Junior Full Stack Developer with a background in Marketing and Bioch
 ## Hobbies
 
 I really love to bake! I love baking cakes for my friends and family. I enjoy travelling and experiencing different cultures.
+ -->
