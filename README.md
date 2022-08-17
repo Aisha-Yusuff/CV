@@ -36,7 +36,7 @@ As a Marketing Assistant at an educational course provider, I was able to double
 - Processed customer orders, invoices, returns and product replacements efficiently and professionally. 
 - Accurately inputted, and managed customer data and information and retrieved order and customer information upon request while adhering to GDPR policy.  
 - Received recognition on various occasions for mediating conflict and great feedback from customers. 
--
+
 
 ### Impact Futures UK
 #### Marketing Assistant (May 2021 - September 2021)
