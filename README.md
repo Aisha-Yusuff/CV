@@ -27,6 +27,40 @@ Having previously worked in various customer-facing roles, I am experienced in c
 As a Marketing Assistant at an educational course provider, I was able to double the number of admissions for Healthcare-related programmes by working in a team to execute effective marketing campaigns. I consistently communicated with all team members to provide support when needed. I made sure to be attentive and enthusiastic when working on each campaign and always spoke in a polite tone to ensure I conveyed messages clearly. I also shared my opinions, concerns and asked questions for further clarification when I needed support. I also took on the role of leader during our initial meeting by asking all members of the team to share their strengths and prior experiences. This helped when I assigned tasks and ensured the strengths of each member of the team were utilized effectively. I was able to implement the skills I learned from this role into my final project at Makers Academy, where I had to work in an agile tech team to deliver a web application.
 
 
+## Experience
+
+### The Lego Group
+#### Consumer Services Assistant (October 2021 - January 2022)
+
+- Built and sustained positive relationships with customers, by maintaining a high standard of customer service, while promoting the company’s brand.  
+- Processed customer orders, invoices, returns and product replacements efficiently and professionally. 
+- Accurately inputted, and managed customer data and information and retrieved order and customer information upon request while adhering to GDPR policy.  
+- Received recognition on various occasions for mediating conflict and great feedback from customers. 
+
+### Impact Futures UK
+#### Marketing Assistant (May 2021 - September 2021)
+- Planned, produced, and proof-read copy and content for the company’s marketing resources and social media accounts. 
+- Acted as first point of contact for future learners enquiring about the company and answered all company enquires.
+- Developed strategies to help drive the company’s online presence and engagement with social media campaigns.
+- Performed day-to-day administrative duties such as monitoring the Marketing Team’s inbox and the Marketing Manager’s diary; drafting emails to learners, colleagues, and clients. 
+
+### University of Essex
+#### Student Recruitment Marketing Assistant (November 2019 - June 2020)
+- Generated and delivered engaging content for the university’s website, blog, social media accounts and annual prospectuses. 
+- Increased the traffic to the university student blog by 163% by implementing a new advertising strategy.
+- Collaborated with a range of staff members to curate marketing content to drive student recruitment for the university. 
+- Scheduled appointments and meetings for the marketing team and the communications department; produced and distributed minutes and organised the location of the meetings.
+- Supported the university’s Admission Team by managing and updating admission records, organising interviews with candidates, and acquiring essential documents and assessing their validity.  
+
+### University of Essex
+#### Student Ambassador (October 2017 - July 2020)
+- Provided support to existing and perspective students  by answering enquires via a range of channels, including telephone, web chat and email.
+- Conducted tailored and interactive tours of the university’s Colchester campus to visitors, students, and stakeholders. 
+- Scheduled campus visits for large school groups, independent consultants, and prospective students. 
+- Organised the university’s educational events and delivered orientation to student ambassadors.
+- Produced detailed event programs and marketing content for campus visitors and students for the university’s educational events such as Open Days.  
+
+
 ## Education
 
 #### Makers Academy (April 2022 - August 2022)
@@ -41,7 +75,7 @@ An intensive 16-week software development bootcamp focusing on:
 - Pair Programming
 - Group projects
 
-#### University of Essex (2017 - 2020)
+#### University of Essex (October 2017 - July 2020)
 
 - BSc Biochemistry: First Class with Honours 
 
