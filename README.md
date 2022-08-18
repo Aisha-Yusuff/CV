@@ -99,4 +99,4 @@ An intensive 16-week software development bootcamp focusing on:
 
 🛫 Travel: I thoroughly enjoy traveling, experiencing different cultures, and learning about the history of all the places I visit.
 
-:book: Reading: When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading: Last Tang Standing by Lauren Ho.
+📖 Reading: When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading: Last Tang Standing by Lauren Ho.
