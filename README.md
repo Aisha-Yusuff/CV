@@ -1,6 +1,12 @@
 ## Hello, I'm Aisha Yusuff!
 
-A motivated Junior Full Stack Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. Seeking an opportunity to collaborate with an agile team, apply my skills, deliver high-quality code, and gain invaluable insights.
+👩🏿‍💻 A motivated Junior Full Stack Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry. 
+
+🍪 I'm a music-loving, concert-going, biscuit connoisseur! (Fun fact: My birthday is on National Biscuit Day!)
+
+💻 As someone who loves a good puzzle, I'm attracted to a career in Software Development because of its problem solving nature and the ability to create innovative solutions to solve social issues. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. I'm looking for an opportunity to collaborate with an agile team, apply my skills, deliver high-quality code, and gain invaluable insights.
+
+
 
 ## Projects
 
@@ -89,6 +95,7 @@ An intensive 16-week software development bootcamp focusing on:
 
 ## Hobbies
 
-- Baking: I really enjoy baking and I'm often baking cakes for my friends and family.
-- Travel: I thoroughly enjoy traveling, experiencing different cultures and learning about the history of all the places I visit.
+- 🧁 Baking: I love baking and I'm often baking cakes for my friends and family.
+- 🛫 Travel: I thoroughly enjoy traveling, experiencing different cultures and learning about the history of all the places I visit. 
+- 📖 Reading: When I'm not coding, I usually have my head stuck in a fiction book.
 
