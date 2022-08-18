@@ -95,7 +95,7 @@ An intensive 16-week software development bootcamp focusing on:
 
 ## Hobbies
 
-- 🧁 Baking: I love baking and I'm often baking cakes for my friends and family.
-- 🛫 Travel: I thoroughly enjoy traveling, experiencing different cultures and learning about the history of all the places I visit. 
-- 📖 Reading: When I'm not coding, I usually have my head stuck in a fiction book.
+- 🧁 Baking: I love baking and I often bake cakes for my friends and family.
+- 🛫 Travel: I thoroughly enjoy traveling, experiencing different cultures, and learning about the history of all the places I visit. 
+- :book: Reading: When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading: Last Tang Standing - Lauren Ho. 
 
