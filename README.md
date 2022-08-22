@@ -1,6 +1,6 @@
 ## Hello, I'm Aisha Yusuff!
 
-👩🏿‍💻 A motivated Junior Full Stack Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry.
+👩🏿‍💻 A motivated Junior Software Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry.
 
 🍪 I'm a music-loving, concert-going, biscuit connoisseur! (Fun fact: My birthday is on National Biscuit Day!)
 
@@ -29,7 +29,31 @@ Having previously worked in various customer-facing roles, I am experienced in c
 
 As a Marketing Assistant at an educational course provider, I was able to double the number of admissions for Healthcare-related programmes by working in a team to execute effective marketing campaigns. I consistently communicated with all team members to provide support when needed. I made sure to be attentive and enthusiastic when working on each campaign and always spoke in a polite tone to ensure I conveyed messages clearly. I also shared my opinions, concerns and asked questions for further clarification when I needed support. I also took on the role of leader during our initial meeting by asking all members of the team to share their strengths and prior experiences. This helped when I assigned tasks and ensured the strengths of each member of the team were utilized effectively. I was able to implement the skills I learned from this role into my final project at Makers Academy, where I had to work in an agile tech team to deliver a web application.
 
-## Experience
+## Education
+
+#### Makers Academy (April 2022 - August 2022)
+
+An intensive 16-week full stack software engineering bootcamp focusing on:
+
+- OOP: Object-Orientated Programming
+- TDD: Test-Driven Development
+- Ruby
+- JavaScript
+- React
+- Databases: PostgreSQL and MongoDB
+- Pair Programming
+- Group projects
+
+#### University of Essex (October 2017 - July 2020)
+
+- BSc Biochemistry: First Class with Honours
+
+#### Herschel Grammar School (2010 - 2017)
+
+- 3 A Levels: Biology, Chemistry and Government and Politics
+- 11 GCSEs: including Maths and English
+
+## Work Experience
 
 ### The Lego Group
 
@@ -68,30 +92,6 @@ As a Marketing Assistant at an educational course provider, I was able to double
 - Scheduled campus visits for large school groups, independent consultants, and prospective students.
 - Organised the university’s educational events and delivered orientation to student ambassadors.
 - Produced detailed event programs and marketing content for campus visitors and students for the university’s educational events such as Open Days.
-
-## Education
-
-#### Makers Academy (April 2022 - August 2022)
-
-An intensive 16-week software development bootcamp focusing on:
-
-- OOP: Object-Orientated Programming
-- TDD: Test-Driven Development
-- Ruby
-- JavaScript
-- React
-- Databases: PostgreSQL and MongoDB
-- Pair Programming
-- Group projects
-
-#### University of Essex (October 2017 - July 2020)
-
-- BSc Biochemistry: First Class with Honours
-
-#### Herschel Grammar School (2010 - 2017)
-
-- 3 A Levels: Biology, Chemistry and Government and Politics
-- 11 GCSEs: including Maths and English
 
 ## Hobbies
 
