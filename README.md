@@ -17,17 +17,17 @@
 
 ## Skills
 
-#### Problem Solver
+#### Skilled Problem Solver
 
-As someone with a curious nature who thoroughly enjoys finding creative methods to solve problems, I relish in using my logical reasoning to improve and debug code. While working as a Student Recruitment Marketing Assistant, I was given the task of increasing the engagement and improving the conversion rate of student-generated content. I exercised my research skills and strong decision-making abilities to find a solution for this task. I was able to increase traffic to the university’s social media platforms and their student blog, which aided in an increase in applications for the next academic year. I achieved this by researching the university's target audience and the latest digital marketing trends; analyzing data from previous marketing content, and implementing a new advertising strategy.
+As someone with a curious nature who thoroughly enjoys finding creative methods to solve problems, I enjoy using my logical reasoning to improve and debug code. While working as a Student Recruitment Marketing Assistant, I was given the task of increasing the engagement and improving the conversion rate of student-generated content. To fulfil this task, I exercised my research skills and strong decision-making abilities. I was able to increase traffic to the university’s social media platforms and their student blog by 163% and turned them into conversions which aided in an increase in applications for the next academic year. I achieved this by researching the university's target audience and the latest digital marketing trends; analysing data from previous marketing content, and implementing a new advertising strategy.
 
-#### Communicator
+#### Excellent Communicator
 
-Having previously worked in various customer-facing roles, I am experienced in communicating with a wide range of audiences and adapting my communication style. I have the ability to deliver high quality verbal and written communication. In my previous role as a Consumer Services Assistant, I had to use my abilities to build and sustain positive relationships, provide solutions for customer enquiries, and translate the company's brand. I was able to utilise this skill whilst working within multiple tech teams at Makers Academy, to explain concepts, share feedback and communicate ideas. A skill that is fundamental for all Software Developer roles.
+Having previously worked in various customer-facing roles, I am experienced in communicating with a wide range of audiences and adapting my communication style. I have the ability to deliver high quality verbal and written communication. In my previous role as a Consumer Services Assistant, I had to use my abilities to build and sustain positive relationships, provide solutions for customer enquiries, and translate the company's brand. At this role, I received great feedback and recognition for my ability to communicate with customers. I was also able to utilise this skill whilst working within multiple tech teams at Makers Academy, to explain concepts, share feedback and communicate ideas. A skill that is fundamental for a Software Developer role.
 
-#### Team Player
+#### Strong Team Player
 
-As a Marketing Assistant at an educational course provider, I was able to double the number of admissions for Healthcare-related programmes by working in a team to execute effective marketing campaigns. I consistently communicated with all team members to provide support when needed. I made sure to be attentive and enthusiastic when working on each campaign and always spoke in a polite tone to ensure I conveyed messages clearly. I also shared my opinions, concerns and asked questions for further clarification when I needed support. I also took on the role of leader during our initial meeting by asking all members of the team to share their strengths and prior experiences. This helped when I assigned tasks and ensured the strengths of each member of the team were utilized effectively. I was able to implement the skills I learned from this role into my final project at Makers Academy, where I had to work in an agile tech team to deliver a web application.
+As a Marketing Assistant at an educational course provider, I was able to double the number of admissions for Healthcare-related programmes by working in a team to execute effective marketing campaigns. I consistently communicated with all team members to provide support when needed. I made sure to be attentive and enthusiastic when working on each campaign and always spoke in a polite tone to ensure I conveyed messages clearly. I also shared my opinions, concerns and asked questions for further clarification when I needed support. I also took on the role of leader during our initial meeting by asking all members of the team to share their strengths and prior experiences. This helped when I assigned tasks and ensured the strengths of each member of the team were utilized effectively. I was able to implement the skills I learned from this role into my final project at Makers Academy, where I had to work in an agile tech team to deliver a web application under time constraints.
 
 ## Education
 
@@ -35,14 +35,14 @@ As a Marketing Assistant at an educational course provider, I was able to double
 
 An intensive 16-week full stack software engineering bootcamp focusing on:
 
-- OOP: Object-Orientated Programming
-- TDD: Test-Driven Development
-- Ruby
-- JavaScript
-- React
-- Databases: PostgreSQL and MongoDB
-- Pair Programming
-- Group projects
+- Produced quality code using Test Driven Development (TDD), Single Responsibility Principle (SRP) and model, view and controller (MVC).
+- Adopted agile methodologies such as Kanban, pair programming, stand-ups and retros to effectively work in a team. 
+-	Practised self-led learning and Language-agnostic programming.
+-	Learnt key development principles Behaviour Driven Development (BDD), SOLID, DRY.
+-	Gained the ability to write unit, integration and end to end tests using RSpec, Capybara, Jest and Cypress. 
+- Understand the importance of Version Control systems such as Git.
+- Built document-based and relational databases and designed schemas using MongoDB and SQL.
+
 
 #### University of Essex (October 2017 - July 2020)
 
@@ -95,8 +95,8 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 
 ## Hobbies
 
-🧁 Baking: I love baking and I often bake cakes for my friends and family.
+🎂 Baking: I love baking and I often bake cakes for my friends and family.
 
 🛫 Travel: I thoroughly enjoy traveling, experiencing different cultures, and learning about the history of all the places I visit.
 
-📖 Reading: When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading: Last Tang Standing by Lauren Ho.
+📖 Reading: When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading:The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid.
