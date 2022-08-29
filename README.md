@@ -53,7 +53,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - 3 A Levels: Biology, Chemistry and Government and Politics
 - 11 GCSEs: including Maths and English
 
-## Work Experience
+## Experience
 
 ### The Lego Group
 
