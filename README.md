@@ -8,14 +8,13 @@
 
 <p>
   <div align="center">
-    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#projects">Projects</a> |  
-    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#skills">Skills</a> |  
-    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#education">Education</a> |  
-    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#experience">Experience</a> |
-    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#hobbies">Hobbies</a> 
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/master/README.md#projects">Projects</a> |  
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/master/README.md#skills">Skills</a> |  
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/master/README.md#education">Education</a> |  
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/master/README.md#experience">Experience</a> |
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/master/README.md#hobbies">Hobbies</a> 
   </div>
 </p>
-<br/>
 
 <h2 id="projects"> Projects </h2>
 
