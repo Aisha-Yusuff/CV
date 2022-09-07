@@ -72,7 +72,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - Accurately inputted, and managed customer data and information and retrieved order and customer information upon request while adhering to GDPR policy.
 - Received recognition on various occasions for mediating conflict and great feedback from customers.
 
-### Impact Futures UK
+#### Impact Futures UK
 #### Marketing Assistant (May 2021 - September 2021)
 
 - Planned, produced, and proof-read copy and content for the company’s marketing resources and social media accounts.
