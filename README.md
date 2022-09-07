@@ -64,8 +64,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 
 ## Experience
 
-### The Lego Group
-
+#### The Lego Group
 #### Consumer Services Assistant (October 2021 - January 2022)
 
 - Built and sustained positive relationships with customers, by maintaining a high standard of customer service, while promoting the company’s brand.
@@ -74,7 +73,6 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - Received recognition on various occasions for mediating conflict and great feedback from customers.
 
 ### Impact Futures UK
-
 #### Marketing Assistant (May 2021 - September 2021)
 
 - Planned, produced, and proof-read copy and content for the company’s marketing resources and social media accounts.
@@ -82,8 +80,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - Developed strategies to help drive the company’s online presence and engagement with social media campaigns.
 - Performed day-to-day administrative duties such as monitoring the Marketing Team’s inbox and the Marketing Manager’s diary; drafting emails to learners, colleagues, and clients.
 
-### University of Essex
-
+#### University of Essex
 #### Student Recruitment Marketing Assistant (November 2019 - June 2020)
 
 - Generated and delivered engaging content for the university’s website, blog, social media accounts and annual prospectuses.
@@ -92,8 +89,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - Scheduled appointments and meetings for the marketing team and the communications department; produced and distributed minutes and organised the location of the meetings.
 - Supported the university’s Admission Team by managing and updating admission records, organising interviews with candidates, and acquiring essential documents and assessing their validity.
 
-### University of Essex
-
+#### University of Essex
 #### Student Ambassador (October 2017 - July 2020)
 
 - Provided support to existing and perspective students by answering enquires via a range of channels, including telephone, web chat and email.
