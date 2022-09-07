@@ -1,4 +1,4 @@
-## Hello, I'm Aisha Yusuff!
+<h1> Hello, I'm Aisha Yusuff! </h1>
 
 👩🏿‍💻 A motivated Junior Software Developer with a background in Marketing and Biochemistry, excited to start a career in the tech industry.
 
@@ -6,16 +6,27 @@
 
 💻 As someone who loves a good puzzle, I'm attracted to a career in Software Development because of its problem solving nature and the ability to create innovative solutions to solve social issues. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. I'm looking for an opportunity to collaborate with an agile team, apply my skills, deliver high-quality code, and gain invaluable insights.
 
-<h1 id="projects"> Projects </h1>
+<p>
+  <div align="center">
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#projects">Projects</a> |  
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#skills">Skills</a> |  
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#education">Education</a> |  
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#experience">Experience</a> |
+    <a href="https://github.com/Aisha-Yusuff/CV/blob/67e36040cb1e38f46d745de57668f3e005b2b729/README.md#hobbies">Hobbies</a> 
+  </div>
+</p>
+<br/>
 
-| Name             | Description                                                                                            | Tech/tools                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| [**Beach Finder**](https://github.com/Aisha-Yusuff/beach-finder) | A web app to help users locate beaches in England, provide weather and tide forecast for the current week                                                     | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap, CSS, Material UI and Web APIs |
-| [**TasteBook**](https://github.com/Aisha-Yusuff/Tastebook)    | A web app for users with a strong interest in food to connect, post recipes and share info about food. | JavaScript, NodeJS, MongoDB, Jest, Cypress, Handlebars, HTML, Bootstrap and CSS                                 |
-| [**Chitter**](https://github.com/Aisha-Yusuff/chitter-challenge)     | A web app based on Twitter that allows users to post messages and view other users messages            | Ruby, Rspec, HTML, and PostgreSQL                                                                               |
-<!-- | **Goal Setter**  | A web app for users to set, keep track of and update their goals                                       | JavaScript, React, NodeJS, RESTful APIs and MongoDB                                                             | -->
+<h2 id="projects"> Projects </h2>
 
-<h1 id="Skills"> Skills </h1>
+| Name                                                             | Description                                                                                               | Tech/tools                                                                                                      |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --- |
+| [**Beach Finder**](https://github.com/Aisha-Yusuff/beach-finder) | A web app to help users locate beaches in England, provide weather and tide forecast for the current week | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap, CSS, Material UI and Web APIs |
+| [**TasteBook**](https://github.com/Aisha-Yusuff/Tastebook)       | A web app for users with a strong interest in food to connect, post recipes and share info about food.    | JavaScript, NodeJS, MongoDB, Jest, Cypress, Handlebars, HTML, Bootstrap and CSS                                 |
+| [**Chitter**](https://github.com/Aisha-Yusuff/chitter-challenge) | A web app based on Twitter that allows users to post messages and view other users messages               | Ruby, Rspec, HTML, and PostgreSQL                                                                               |
+| <!--                                                             | **Goal Setter**                                                                                           | A web app for users to set, keep track of and update their goals                                                | JavaScript, React, NodeJS, RESTful APIs and MongoDB | --> |
+
+<h2 id="skills"> Skills </h2>
 
 #### Skilled Problem Solver
 
@@ -29,20 +40,19 @@ Having previously worked in various customer-facing roles, I am experienced in c
 
 As a Marketing Assistant at an educational course provider, I was able to double the number of admissions for Healthcare-related programmes by working in a team to execute effective marketing campaigns. I consistently communicated with all team members to provide support when needed. I made sure to be attentive and enthusiastic when working on each campaign and always spoke in a polite tone to ensure I conveyed messages clearly. I also shared my opinions, concerns and asked questions for further clarification when I needed support. I also took on the role of leader during our initial meeting by asking all members of the team to share their strengths and prior experiences. This helped when I assigned tasks and ensured the strengths of each member of the team were utilized effectively. I was able to implement the skills I learned from this role into my final project at Makers Academy, where I had to work in an agile tech team to deliver a web application under time constraints.
 
-<h1 id="education> Education </h1>
+<h2 id="education"> Education </h2>
 
 #### Makers Academy (April 2022 - August 2022)
 
 An intensive 16-week full stack software engineering bootcamp focusing on:
 
 - Produced quality code using Test Driven Development (TDD), Single Responsibility Principle (SRP) and model, view and controller (MVC).
-- Adopted agile methodologies such as Kanban, pair programming, stand-ups and retros to effectively work in a team. 
--	Practised self-led learning and Language-agnostic programming.
--	Learnt key development principles Behaviour Driven Development (BDD), SOLID, DRY.
--	Gained the ability to write unit, integration and end to end tests using RSpec, Capybara, Jest and Cypress. 
+- Adopted agile methodologies such as Kanban, pair programming, stand-ups and retros to effectively work in a team.
+- Practised self-led learning and Language-agnostic programming.
+- Learnt key development principles Behaviour Driven Development (BDD), SOLID, DRY.
+- Gained the ability to write unit, integration and end to end tests using RSpec, Capybara, Jest and Cypress.
 - Understand the importance of Version Control systems such as Git.
 - Built document-based and relational databases and designed schemas using MongoDB and SQL.
-
 
 #### University of Essex (October 2017 - July 2020)
 
@@ -93,7 +103,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - Organised the university’s educational events and delivered orientation to student ambassadors.
 - Produced detailed event programs and marketing content for campus visitors and students for the university’s educational events such as Open Days.
 
-<h1 id="hobbies"> Hobbies </h1>
+<h2 id="hobbies"> Hobbies </h2>
 
 🎂 Baking: I love baking and I often bake cakes for my friends and family.
 
