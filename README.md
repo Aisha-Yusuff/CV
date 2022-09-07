@@ -18,12 +18,12 @@
 
 <h2 id="projects"> Projects </h2>
 
-| Name                                                             | Description                                                                                               | Tech/tools                                                                                                      |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --- |
-| [**Beach Finder**](https://github.com/Aisha-Yusuff/beach-finder) | A web app to help users locate beaches in England, provide weather and tide forecast for the current week | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap, CSS, Material UI and Web APIs |
-| [**TasteBook**](https://github.com/Aisha-Yusuff/Tastebook)       | A web app for users with a strong interest in food to connect, post recipes and share info about food.    | JavaScript, NodeJS, MongoDB, Jest, Cypress, Handlebars, HTML, Bootstrap and CSS                                 |
-| [**Chitter**](https://github.com/Aisha-Yusuff/chitter-challenge) | A web app based on Twitter that allows users to post messages and view other users messages               | Ruby, Rspec, HTML, and PostgreSQL                                                                               |
-| <!--                                                             | **Goal Setter**                                                                                           | A web app for users to set, keep track of and update their goals                                                | JavaScript, React, NodeJS, RESTful APIs and MongoDB | --> |
+| Name             | Description                                                                                            | Tech/tools                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| [**Beach Finder**](https://github.com/Aisha-Yusuff/beach-finder) | A web app to help users locate beaches in England, provide weather and tide forecast for the current week                                                     | JavaScript, React, NodeJS, MongoDB, Jest, React Testing Library, HTML, Bootstrap, CSS, Material UI and Web APIs |
+| [**TasteBook**](https://github.com/Aisha-Yusuff/Tastebook)    | A web app for users with a strong interest in food to connect, post recipes and share info about food. | JavaScript, NodeJS, MongoDB, Jest, Cypress, Handlebars, HTML, Bootstrap and CSS                                 |
+| [**Chitter**](https://github.com/Aisha-Yusuff/chitter-challenge)     | A web app based on Twitter that allows users to post messages and view other users messages            | Ruby, Rspec, HTML, and PostgreSQL                                                                               |
+<!-- | **Goal Setter**  | A web app for users to set, keep track of and update their goals                                       | JavaScript, React, NodeJS, RESTful APIs and MongoDB                                                             | -->
 
 <h2 id="skills"> Skills </h2>
 
