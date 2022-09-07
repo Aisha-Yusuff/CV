@@ -6,7 +6,7 @@
 
 💻 As someone who loves a good puzzle, I'm attracted to a career in Software Development because of its problem solving nature and the ability to create innovative solutions to solve social issues. I'm a recent Makers Academy Graduate who has learned how to be a confident and creative coder, skilled in test-driven development and object-orientated programming. I'm looking for an opportunity to collaborate with an agile team, apply my skills, deliver high-quality code, and gain invaluable insights.
 
-## Projects
+<h1 id="projects"> Projects </h1>
 
 | Name             | Description                                                                                            | Tech/tools                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | [**Chitter**](https://github.com/Aisha-Yusuff/chitter-challenge)     | A web app based on Twitter that allows users to post messages and view other users messages            | Ruby, Rspec, HTML, and PostgreSQL                                                                               |
 <!-- | **Goal Setter**  | A web app for users to set, keep track of and update their goals                                       | JavaScript, React, NodeJS, RESTful APIs and MongoDB                                                             | -->
 
-## Skills
+<h1 id="Skills"> Skills </h1>
 
 #### Skilled Problem Solver
 
@@ -29,7 +29,7 @@ Having previously worked in various customer-facing roles, I am experienced in c
 
 As a Marketing Assistant at an educational course provider, I was able to double the number of admissions for Healthcare-related programmes by working in a team to execute effective marketing campaigns. I consistently communicated with all team members to provide support when needed. I made sure to be attentive and enthusiastic when working on each campaign and always spoke in a polite tone to ensure I conveyed messages clearly. I also shared my opinions, concerns and asked questions for further clarification when I needed support. I also took on the role of leader during our initial meeting by asking all members of the team to share their strengths and prior experiences. This helped when I assigned tasks and ensured the strengths of each member of the team were utilized effectively. I was able to implement the skills I learned from this role into my final project at Makers Academy, where I had to work in an agile tech team to deliver a web application under time constraints.
 
-## Education
+<h1 id="education> Education </h1>
 
 #### Makers Academy (April 2022 - August 2022)
 
@@ -93,7 +93,7 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 - Organised the university’s educational events and delivered orientation to student ambassadors.
 - Produced detailed event programs and marketing content for campus visitors and students for the university’s educational events such as Open Days.
 
-## Hobbies
+<h1 id="hobbies"> Hobbies </h1>
 
 🎂 Baking: I love baking and I often bake cakes for my friends and family.
 
