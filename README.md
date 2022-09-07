@@ -100,8 +100,8 @@ An intensive 16-week full stack software engineering bootcamp focusing on:
 
 <h2 id="hobbies"> Hobbies </h2>
 
-🎂 <b>Baking<b>: I love baking and I often bake cakes for my friends and family.
+🎂 <b>Baking:</b> I love baking and I often bake cakes for my friends and family.
 
-🛫 Travel: I thoroughly enjoy traveling, experiencing different cultures, and learning about the history of all the places I visit.
+🛫 <b>Travel:</b> I thoroughly enjoy traveling, experiencing different cultures, and learning about the history of all the places I visit.
 
-📖 Reading: When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading:The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid.
+📖 <b>Reading:</b> When I'm not coding, I usually have my head stuck in a fiction book. I'm currently reading:The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid.
